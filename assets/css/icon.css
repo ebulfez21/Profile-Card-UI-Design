@@ -1,17 +1,16 @@
 .icon {
   width: 32px;
   height: 32px;
-  display:flex;
+  display: flex;
   background-repeat: no-repeat;
   background-size: contain;
-background-position: center;
+  background-position: center;
   background-size: contain;
   align-items: center;
   justify-content: center;
-float: left;
+  float: left;
 }
 
-
-.farme{
+.farme {
   background-image: url(../icon/Frame.svg);
 }
